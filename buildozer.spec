@@ -2,10 +2,9 @@
 title = DurandTech Systen
 package.name = durandtechsysten
 package.domain = com.durandtechsysten.app
-source.dir = .
+source.dir =.
 source.include_exts = py,png
 version = 2.0
-version.regex = __version__ = ['"]([^'"]*)['"]
 
 [buildozer]
 log_level = 2
